@@ -1,0 +1,7 @@
+name: osdoc
+title: Antora Test
+version: 0.0.1-SNAPSHOT
+prerelease: true
+start_page: ROOT:home.adoc
+# nav:
+# - modules/ROOT/nav.adoc
